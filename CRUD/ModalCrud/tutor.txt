@@ -1,0 +1,5 @@
+1. Copy and paste this folder (app, database, etc.) into your Laravel app. (Before installing/using this template, you need to install the Login V2 folder too)
+2. Run the following command to migrate to your database: php artisan migrate --seed (or) php artisan migrate:fresh --seed.
+3. Run the command: php artisan storage:link.
+4. Start your Laravel app: php artisan serve.
+5. You're done!

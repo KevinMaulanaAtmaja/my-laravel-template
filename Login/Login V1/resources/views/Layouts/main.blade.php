@@ -16,7 +16,7 @@
     <div class="container mt-5 col-md-6">
         @include('layouts.alert')
     </div>
-    <div class="container col-md-8">
+    <div class="container pb-5 mb-5">
         @yield('konten')
     </div>
     @include('layouts.footer')

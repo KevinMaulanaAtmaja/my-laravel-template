@@ -1,0 +1,1 @@
+update template ini ke npm sebgai package?
